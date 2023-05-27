@@ -5,7 +5,7 @@
     "database.hostname": "35.240.247.0",
     "database.port": "3306",
     "database.user": "root",
-    "database.password": "kafka-db1",
+    "database.password": "137982",
     "database.server.name": "kafka-db1",
     "table.whitelist": "demo.movies",
     "database.history.kafka.bootstrap.servers": "broker:9092",

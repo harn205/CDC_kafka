@@ -18,7 +18,7 @@
       "connection.backoff.ms": "1000",
       "connection.url": "jdbc:mysql://34.126.150.158:3306/demo?nullCatalogMeansCurrent=true&autoReconnect=true&useSSL=false",
       "connection.user": "root",
-      "connection.password": "kafka-db2",
+      "connection.password": "137982",
       "dialect.name": "MySqlDatabaseDialect",
       "insert.mode": "upsert",
       "batch.size": "2",
